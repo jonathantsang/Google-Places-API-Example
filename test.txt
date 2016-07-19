@@ -1,0 +1,742 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CuQB1gAAANQfSizSgD66y7W-xo2rwUtrAOnoP06BVkuBM6yJ-pFFvVMDpWQzyeiRcAUZq6FqaVh2zVSrcSV_boDoVL7fAhBzmDZOkP0nOXip2k0910SBCrRqC7Q7shH6uFIAgdtvkdyumrjwFdV_-JsL9i2izfhY_EA_2v7fspnVhyiUtzZCtfW6SrNQZv1iI8XXwErHf45imLRAOShF2YJA4kLj0nfHvL_4qk7fA1iO3G_BAR8T5Og9CI5yk9j7GXZ7-imCLWfgcxIc-NYSW5iDFeRVCEFK5n7gJ9O1Ihyl8pRFOIMmEhA9mc2y_FGonOozBsokwFkDGhQR-M5Y1YgExsPbrQXQPyRKCSfbvA",
+   "results" : [
+      {
+         "formatted_address" : "1636 Sandifer Blvd, Seneca, SC 29678, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.6892042,
+               "lng" : -82.9991548
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "82b85dc65294b9c926a39d0dd65e34bd9dc1b500",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ73TJ-p30WIgRQkSmiM4dUeM",
+         "price_level" : 1,
+         "rating" : 3.4,
+         "reference" : "CmReAAAARTE-C-VAI8BaUAJmuC8_-L4WbmSl_xWu_1C7CkpqnY8v1x1Xh_QHYhHtFZvWgebCkPbRDT1kF-8tGEi0AN79wXcsGqcTdgGUNUrbHVudnBwXisq9AafUS4iPTnTana8nEhAY5Rvg8f3y_My3WhydlF--GhRebGDgflsqTtQsTgJrDAYwQS5WxA",
+         "types" : [
+            "cafe",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "9061 Elm St, North Huntingdon, PA 15642, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.3210302,
+               "lng" : -79.6919853
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5d53dad89accb9924d8ee21ae4333b094b0c1661",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115562786275595396443/photos\"\u003eJanice Koshinsky\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAAX607ei55LZxdtf-5OpV_cOXyRjpxGwXjNifgJwknspjDUJjED6WKTD9P3hrx_tOA1wp15rkzHj3fGXO_JeWwKjNrOUm39c-e5a16ELw5bv17xeZrqKnJLmDbyBCLEjzN3b74zj42gRNTW8rxqNdSCMYcLqIGbToXNC3fQofyTLEhC7xW-R2IfseG4410OAKvWvGhSW6TFkujmmaHi6RTWZgc-1BFrxJg",
+               "width" : 2340
+            }
+         ],
+         "place_id" : "ChIJw2d3wTWikIcReG9Wa6qz2PU",
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "CmReAAAAsmMZJgHWM6ENcSimaw3HzlV1ul6C5ycqOyYuYGzvszXXJzrSPJZbvpAPAUwZapSYOIoD1b3hAruC1B0lcY-yKBpKPNKNkkAdjNq_QF3ZfeC8IkNmaWE8qBK2pUQ0cpbOEhCHvKHUjUHU4EkXWGYy1HofGhQRRg9FlVALpDKSi5s0aSbVjYGIew",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "262 Canal St, New York, NY 10013, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7185867,
+               "lng" : -74.00109859999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7187577,
+                  "lng" : -74.00083835000001
+               },
+               "southwest" : {
+                  "lat" : 40.7185297,
+                  "lng" : -74.00118534999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6f074ee0405dc3bae95a1034af95fe6687d7c654",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108517461516623349826/photos\"\u003eRobert Thurfelder\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAAsE-S8ztF67msgXIK_tSvxwBlLtPLtMcREidvuUmOjQuxzetzCIhJTJ0A0x4h9t50MeiMPJqgOvkeDds6G4MudjIz8u2mPwPNdFy-Y3AEdH5sqM367eKWdXhHgEJ9Hu-BZnkPcrr4z0lB1Rbi52pl3KNqDrv2a4nW9_fur4Ck40EhD_41bFrFshfsEeoz3dh7UJGhQvKrmPP5yrdkky4hgHxysHQcEV2A",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJvxc0BIpZwokR7GRQzNMXBsw",
+         "price_level" : 1,
+         "rating" : 3.1,
+         "reference" : "CmReAAAAIZs40lSt2-tg_nrVFQdhAZVgp8o1hTrza4tubEAZwPPM_9vlV-SeFIHHT7Hf-5URJLb4h7A3sWALZ8QFEAsFp5saCXqYTZx6ul3iR6-YLgFbRuaGwKBsK7fLVg-qvShmEhCSfmtuNTFcA28yL8fySwu1GhQcB_1Za-WcJkoPBd2bmUCcZ5GDvA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "1651 Broadway, New York, NY 10019, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.7622143,
+               "lng" : -73.98374199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.76233895,
+                  "lng" : -73.98345279999999
+               },
+               "southwest" : {
+                  "lat" : 40.76217274999999,
+                  "lng" : -73.98383839999998
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "63cfb18b3816d02b5012e67d47a245266826dd22",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108363854646231072491/photos\"\u003ePatrice Gaudicheau\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAJPi52IddUpAwubdy9n1F62Sufs-Uc3dCXlacy5zWPIMDZKzHUzm9vgB5b9yrBPyrT2QQunp3CKC_-vp-aaRHB2agMNJWxVOG8CYq6aQA0RF5fsCgsgoz4ZWLsPzFHrVGlL8S9Q1QeSSF4RMIER16Sa1vLRHZkusL7KkIoPMy3NIEhDwe6rqTyzpAF2p9j4-h4ATGhR2E4DXn9HNkLJXZgJ8_Ivo-RSM7w",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJhT6eMlZYwokRUlEXJqZqJjY",
+         "price_level" : 1,
+         "rating" : 3.1,
+         "reference" : "CmRdAAAAZ972Vyb5sjQ6kBCbNdqlhjV1S1JMhiTBxXp7ianlKnlWHuTi88EnPkBffqzRCB29l7m2K27yrskoz6frxpRApYVFi7zwUv-Skekd64X6bX4lHINjjRpNMCGeub7Kc2nBEhCsQ-mAwpXuSShF3zvhOc0BGhSvPNEyAg9I-4zfoCJJqmnAG0sRJw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "1414 University Ave, San Diego, CA 92103, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.748892,
+               "lng" : -117.150836
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.74905205,
+                  "lng" : -117.15083075
+               },
+               "southwest" : {
+                  "lat" : 32.74841185000001,
+                  "lng" : -117.15083775
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1719ce1e33185c9aecf438fbecfabac87a165ac9",
+         "name" : "McDonald's",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112146359410466550493/photos\"\u003ePutney ronawaya\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAF5iEe3N7gvNTdYmOm-CvtGyI-qELMfqv4iJRndwcJtj5fbZzMFBypdFyOhtuLc02Q_nqfH8GC4_vjCAy7qluO_PT71ejalYqsU9yxhXNZwCg7PKuU2Ttc8wFCN-ka1659E_2e1Vrgwtau-ScFROWYWIhxZzw8hpp_pG2Xcf8o4OEhDPyKsao58ZHXVbuIsPlM-0GhQE4Zr44Q4JGik-5PD6jivZxFt8OQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJAQRgxuRU2YAR8mtVv9ll_Ac",
+         "price_level" : 1,
+         "rating" : 2.9,
+         "reference" : "CmRdAAAA7rofHHLSqudkJpxi_YRKw35T4ysJx-e8ZdVDbKriJ0rGN2iQ-yhHvDkfa6jImZSd6X1hJb-ghbw9t8tVD2Kvhtfj9cuvpoiO5Q5Mld4WdclaMBOhZfSGdfZuEqCLASSaEhCcInDuw5kqnm6YjyV-adCFGhSeIZ8kSEi442-de3g4IFrycndOaA",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "28624 Northwest Fwy, Cypress, TX 77433, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 29.9919819,
+               "lng" : -95.74822569999999
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "880bf2406eb7fae4de468107a57bdc4786f9e301",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJCUOavbvVQIYRqGbasq1erio",
+         "price_level" : 1,
+         "rating" : 3.2,
+         "reference" : "CmRdAAAAL_-JrPP0oxu1SZxsQxw5krdLJfNiHV8kV1eg3YqJR2MMWSA_sqyRd2W-bubtppoZPORyaVlq6Aa-7W8sUX2JBq0lTbHX8QDJuvM7GQsQ9Jb-AwOK_3oxXk0M6a3Z4e6MEhDrCUP1tpL6Jp330nRrGahoGhTXqeoUUUfgfe1Da23mBjUCBTy9Ag",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "8840 Painter Ave, Whittier, CA 90602, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.9570882,
+               "lng" : -118.0385445
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.95725875,
+                  "lng" : -118.0384039
+               },
+               "southwest" : {
+                  "lat" : 33.95703135,
+                  "lng" : -118.0389663
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "94cff6b47796c8be148168ad8653b52933d66c18",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1744,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104589110576230261650/photos\"\u003eMarlene Lara\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAACah5cMpBbzfcZipo4skoD0-vweG98ZnCkQL0mLF5hRKDTikgRmWXdFh-t4t--iOCU-eTynpyX4IRxD0jNuyCa-nFwfspYw-7oNmiU183WYpeRhdjqHf_zcDsU7v36HBMRUTklM0EJ1ZlK-FakTCVscsoiP6kCWTUWDyWmWtAs-bEhCQSTxTQNuqGSbsNGOaoGb_GhT8VaGqR61S8mfuC1-kRxA5GW6F_A",
+               "width" : 5952
+            }
+         ],
+         "place_id" : "ChIJaV7gVZ7TwoARPBmbkPFy9I0",
+         "price_level" : 1,
+         "rating" : 3.4,
+         "reference" : "CmReAAAA0vHKJjSsS5nuZh-8OKpKA8TylniPgr-EfAtb7XZgalS7D8U_M14IxOqZYAs_k9kRkBPra1XpcI9PdiFhEld00_7r7JLmQ9yFmyFQKTTnPoercamXibGjSasjvECHJUoLEhA6UvJttoNsTBRMCv3apFKfGhThqO7S7auS6qZKCDhvQPFX9u6U0w",
+         "types" : [
+            "cafe",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "10207 Lakewood Blvd, Downey, CA 90241, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.9474295,
+               "lng" : -118.1178952
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.94752249999999,
+                  "lng" : -118.11713935
+               },
+               "southwest" : {
+                  "lat" : 33.9471505,
+                  "lng" : -118.11814715
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "3a38e5aeabc42b2e912b1392f183b64941459488",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113328901736426806494/photos\"\u003eMichael Koss\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAFF5TGMPNpQgfPqtgvPorlfuaOhhd86e0H9ludT-M8LmdCIQycSHGQCdPiy0DKrGzdNULh9YD6InMQZgzja_gxO7j28EpBy79LnYMIgehW0rQax0da_q4OUjh6kcuF4036kM2WpQ16pwF61xJmV4juH6upPZkjHKfMBB6FX8kLB3EhClX1FOZZhRIL_qfW8CeKgiGhTQ8pgKVIckJSGyWjLPnElxji7Pcw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJuzWniYrNwoAR2bgc5Xa3-wk",
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "CmRdAAAAtaDrBlNbUEhtskKNPcIndQFDHtV4xHx9RU3q4SbIsYQddDCOrH6ppa1yUD5DtyxLzt-VunXxfZ8iF0xAOQGf5zOxws0soN9mGNsM0ilQtXUC0qbFRYJH0U0nymI5cYDWEhCCcz01N9jBFfAEdJRro322GhSIH6ciqQSpQ-nqJnqo6u1uObfK-g",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "1223 Commonwealth Avenue, Allston, MA 02134, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.3506812,
+               "lng" : -71.13097499999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.35072945,
+                  "lng" : -71.1308466
+               },
+               "southwest" : {
+                  "lat" : 42.35053645000001,
+                  "lng" : -71.13101779999998
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1d6b6d7fd45e7d138792b7a18376b740b6028a47",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106204536044108427557/photos\"\u003eEd Weng\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGpFYSgbegQNgd_due0szgtSG8hpP6UTeefscGB82F7ROnx_RoTf60oIxizXzDQFmsVnlJ6q1MablglHZKs7tzKa7vPiQy403h56OSWQRU4G8yFWSMvq8e1ZiKXT2zmIs9janyWw7HAALmJQAmOiydD_F_Qxbit8mjaJAskkoz-yEhB660PJbe7bBN4jAFHkqDESGhTCN3RYFR1urXkbP8v8zbHg3qpYIg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJYagz_h1644kR7pdjtf-Icos",
+         "price_level" : 1,
+         "rating" : 3.1,
+         "reference" : "CmReAAAAZfLE8Rt6QaS5QePSb1tBmsC2Mwtq8xNuaMh3Up6AGC3ByDEfB8F0c3oNcG0tHj9dD00xAE1bfCMqasU-a4vdRLqia5S9JN5UBg3Pl7pFoX50LnaUUAVpvAiu9ra7KI_qEhCmMvEX6hrxSrbvSWdO097BGhRz8R1muNzkUkxhJGBgnRSMEpFDfg",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "288 E Main Rd, Middletown, RI 02842, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.5199614,
+               "lng" : -71.29129189999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.52014665,
+                  "lng" : -71.29101679999999
+               },
+               "southwest" : {
+                  "lat" : 41.51940565000001,
+                  "lng" : -71.29138359999997
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6f4d1e3ff469a6d3295cdd326860d618b55faaef",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 539,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100698077911969806750/photos\"\u003eMcDonald&#39;s\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAABIIu1r0JqjRjaDA4rUncYbkQ0teEGI8pb75Ru8LRwENQw85EwE_9qEhDo_rQGra45Ez55d_yUjAOtMBsE6FJjihIa8mBtgjDkptv726rFawgPQDFmGXGA56VljpdCwRbJw8WZJornX_4El-l0jngw4pie-FNKfWY8dJlFz9XodFEhApJqlgIrq1GSsfFkBfn4QrGhToG9rs9_BdNuodJSLXRqxeOCBX4w",
+               "width" : 530
+            }
+         ],
+         "place_id" : "ChIJf7VkkM2u5YkRscBDnoWJZtk",
+         "price_level" : 1,
+         "rating" : 2.8,
+         "reference" : "CmReAAAAw4eEZOfhnxzew9IjY7wbb7E5tLcGD583V7DqyzKyF7fu_k17WdnolMK-l4KAqBfWVh4AzcXcwwb3ZXaid0hFe4XU1AuAVle3aSFJMeatnng7w1GVwVdfebfWKAY2ULtiEhDtiMOc8hzmUhvRdddwLSVFGhSXWMkqg_fFdFuaCic7pDc_6Ld9ow",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "5050 Borgen Blvd, Gig Harbor, WA 98332, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.35933130000001,
+               "lng" : -122.6057549
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.3598185,
+                  "lng" : -122.6056801
+               },
+               "southwest" : {
+                  "lat" : 47.35916890000001,
+                  "lng" : -122.6059793
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1bd1e26143848ed0fb505fd87e884a9a0b5070fa",
+         "name" : "McDonald's Play Place",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJS8b6k2ZNkFQRVVgbSxrOsNo",
+         "price_level" : 1,
+         "reference" : "CnRpAAAAczT7lnW3ag0H3ODgvk--bmwQ74TCKlkPdPKDi3DaOWlJL3mAhb_uEv2ku7N6yCf056XK0K2tXNnEymFI32QI22oDDrMA6pnpjEMn_lSPAiyIrNgLhzMXwPq0tZFUxlsM19QDQqxGxU9FxW0nOcM2uxIQjbMl0fJLaI3ZNngvRu4lahoUSBf1YK99CgF3iF_Zb82BkOrtDg0",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "4775 Washtenaw Ave, Ann Arbor, MI 48108, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.251605,
+               "lng" : -83.66567599999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.25187290000001,
+                  "lng" : -83.66557834999999
+               },
+               "southwest" : {
+                  "lat" : 42.2508013,
+                  "lng" : -83.66596894999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "17d4943c017c9867091c531d370c90a3f98b50a3",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1328,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106787839275127357273/photos\"\u003eMcDonald&#39;s\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAFzss8Wev6Ydan5ENcKa6Y1pBd0wwzSWwUIYf-5hEUw4REyvB-UIBwCWk85SYSfb0pyNu82xSRn_cVGXMqZAwwB5xu61N7H_0JniyfWvjZF0iIyFsDv1nMuRq89a40n-QU6EHJBtA1BSwsM2OimdahIX4iIYe35Gv0ldK_InA71GEhDSvhEsnhmU8xZ4WfoCPeB8GhRo912HS9XUatI0t7w2lQdue_ZfsA",
+               "width" : 1323
+            }
+         ],
+         "place_id" : "ChIJoZbSidqoPIgR9P0kNB-8NwI",
+         "rating" : 2.3,
+         "reference" : "CmRdAAAAgi2HeofBKq70agooyABKYU6CQQ3xe-BSnVPZUWxDudUs1YNZpcx8JstfxfWLLFVQ72SVeQclgANkcn2j487kGWzFRKmkTa7oEiu_okgw6-NIFAtyxYo1zEFa3QUmEUv1EhCCHi65vzTFHvHBA-bfDcPKGhTjBXIoLxvw7P71ChuWPIiZ_0pZXw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "1035 Strader Dr # 150, Lexington, KY 40505, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.04151839999999,
+               "lng" : -84.4630083
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.04161059999999,
+                  "lng" : -84.4629013
+               },
+               "southwest" : {
+                  "lat" : 38.0412418,
+                  "lng" : -84.46332929999998
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "12c151c980eb3706618078c2fe0fc7dadd60069a",
+         "name" : "McDonald's Corporate Office",
+         "place_id" : "ChIJwc4FSxRFQogRxNc2sOX3_yI",
+         "price_level" : 1,
+         "reference" : "CnRuAAAAec7BXBlDZQABcff88Ez7lAdtgQRRh_PoPVkpGFbKF7nSrd8phRB8p1ObfD8ZvusVoaDBGuZKeMCdi4fT-MfzpZIno8NKFuF0eaWzzDAz974HUFb5vJkovEQqF1FbHiXCZNS3eaiODNDxLBJmpeX6AxIQZnyTJT2yHEBqGxwo23DpjxoUZbl3ApYSE2C3mLonrjSz65TpnEU",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "112 Long Hollow Pike, Goodlettsville, TN 37072, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.3229373,
+               "lng" : -86.7116721
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.32296414999999,
+                  "lng" : -86.71116674999999
+               },
+               "southwest" : {
+                  "lat" : 36.32292835000001,
+                  "lng" : -86.71184055000002
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6bd3aa75be5fffbfb2352f12c02da8fddfc65cf0",
+         "name" : "McDonald's Corporate Office",
+         "place_id" : "ChIJcV-0cJJEZIgROuPcD8DLfSw",
+         "price_level" : 1,
+         "reference" : "CnRuAAAAED3NK3BCL_pvhreaPZzSZRAQv0hgd2QTbXsE0OYQAujf7YxANr_iLkkUGaV3PsgKq9loFCOmd0fyc0E5pj_wEEDgrzswXN7zfRiJh4RB_5Hg-MMCFq4mJielONkHsQ_1q2fVUVT7kMlCAgG_2LKa2hIQD6bb_WUqmx4W_RCZ5jg6bRoUxQLbPRNIc-9JbnjTR-6AfqCCY_0",
+         "types" : [
+            "restaurant",
+            "meal_takeaway",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "145 Somerset St, New Brunswick, NJ 08901, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.49683230000001,
+               "lng" : -74.4493828
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.49694005000001,
+                  "lng" : -74.44906869999998
+               },
+               "southwest" : {
+                  "lat" : 40.49650905000001,
+                  "lng" : -74.44948749999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f7125126d8fa1b06a18f17f8f864d147202b5f50",
+         "name" : "Ronald McDonald House",
+         "place_id" : "ChIJjzBuk1bGw4kRZIeue19TKz8",
+         "rating" : 4.7,
+         "reference" : "CnRoAAAABmcQEUwTaBCp8pr_T58GeNeHR7U0FTozavgynF3dZS2o2IGFd3LBMhy5FFiDHztmP0hlIxhdKfW3OnpgzpTb9uriqbyyOlStVlQ_b959SVJ91r9P9JIxT0WYSE_MZbfabvzYYOAzojb_Bc7jWRPxJBIQj6SUolZGXYwHhuzNVTW_HhoUBtZfzrswLD__0MIHquzjdtCQb2o",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "1200 Wisconsin Dells Pkwy S, Baraboo, WI 53913, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5747191,
+               "lng" : -89.7795163
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.57471985000001,
+                  "lng" : -89.77817950000001
+               },
+               "southwest" : {
+                  "lat" : 43.57471684999999,
+                  "lng" : -89.77996189999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "331f5975d65fa24c74cfa4555263e928467ec74e",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106852832601193962585/photos\"\u003eRobert J Woldhuis\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAHUkQ8EZEZtithe0gOKIE9eLxPJCq3VXwTVk9u6X1NRqD2RZh9pCLsEpUMUEFQ1qdZoSr5O-iGYN8iroc2nBp8B8VMfSNyLRpE-FUVhekh6m4XFEqvGar8yY6ZURF1ZmqZ9aS9PXJ1HLnOyFAKQ8bjX4oOHake_Kci9mBfV6aJrcEhBGa-wfBbhs9wycdAtlaAchGhRK2dynLO6Myg522ho2VYIdmARH5g",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJQSYPHRxEB4gRnFPdvEinqFw",
+         "rating" : 2.8,
+         "reference" : "CmRdAAAAJpuTziaqqkkK75z0v1oYkFBjOmo2xbNdUKGAfc5SjF1p8yHpswOkLNmNUQJ2R6G7mNpNpMNC1dIMW-CQDDtiZRH8l7PVrYNinhg3RImX0RcZx7iMvJZNk-xndl3X9yIOEhAKSM_4fFDA1j7-Y-G9sPCpGhQqszhF1VpiqhfulaSVLEiSbOBhmA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "720 N Main St, Roswell, NM 88201, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.4004532,
+               "lng" : -104.5232397
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.40047135,
+                  "lng" : -104.52253665
+               },
+               "southwest" : {
+                  "lat" : 33.40044715000001,
+                  "lng" : -104.52347405
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "89fa1f9aabe75ec8a5cc47a9d8886dc0a219a88a",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2432,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111839136137022904558/photos\"\u003eAlias Alias\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAC0S00GuuH4qAgWvCgN1qePEKA5v7Oov7CJF6_UCvejR6_McyJ8ZQwionchoQNvEgUaWz8uKk3j9KsEux-td-64xVYJYL-7UHUwt9Kv8q1S3vWqJSVqigMxVGXAYqjOFLnSAjc5xM-uBR52H-wYT7KhFp4XCgPQ2-atDk4aFSb4rEhA-YvaAJe6C0eDpkc3zjGx6GhSPL4rQL-r8aiSkSn9xSe9k9xlRkg",
+               "width" : 4320
+            }
+         ],
+         "place_id" : "ChIJMzw38d5u4oYR-XJn8Y-m_Uw",
+         "price_level" : 1,
+         "rating" : 3.6,
+         "reference" : "CmRdAAAAlhmd7FGRaEz_QcG9HrWciYiRPD-j14iChFUIsiMF42YgjoX20_Bdq5uwCuKcuDOfLyl72iIG1JPDYoCeGlsB3WcK5b9uU7y_gN8CzVKHVrxjRIMCFpRjxEhBR428OH8MEhBLZBMcFBfTPcd7itoQN_DzGhSzKQjK-Y3dtJ6FxaxbEufZSHBlzQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "911 S State St, Jerseyville, IL 62052, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 39.1103381,
+               "lng" : -90.31924649999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.11042735,
+                  "lng" : -90.31906239999998
+               },
+               "southwest" : {
+                  "lat" : 39.11007034999999,
+                  "lng" : -90.3197988
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "05e69a2eed61f29a943b7e991ab0a5a543352a02",
+         "name" : "McDonald's",
+         "place_id" : "ChIJqxhjvB8T34cRtLpAme_62U4",
+         "price_level" : 1,
+         "rating" : 2.9,
+         "reference" : "CmRdAAAAUitQ64SBWGmHqt1sxI2keoNNUts6e1ons2-XDvwLaO-dVOVBBe1xYobiTFSoO2IxOqyNE37slK8x46B-y1ziGL3SvUwF6lQMFmyrWW7q3AL7OyZ9_pKStSEmzNzdbPeuEhAqod-LMIRKNjnqE_aQW6Z1GhRpBtJjnxkZdeeVuPDhz4MfzhWSVA",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "12609 Lexington St, Manor, TX 78653, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 30.34977110000001,
+               "lng" : -97.5556108
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.3497806,
+                  "lng" : -97.55543050000001
+               },
+               "southwest" : {
+                  "lat" : 30.34974259999999,
+                  "lng" : -97.55615169999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "5ea1f0923ffd7c5f286bc57203e4b7b6b89fbdf6",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 949,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111795892687263386905/photos\"\u003eEric Hernandez\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAGLEdfWfykpAzAB4JssgbnxGK-xcP1qw74lcMowDgKgNYPy3GirEqy4ze3AVNxDBBUuG0uc2CC_GZj85OHaq4qx0NQ3eNPLiSCGdmEQ6qWTIpBbBpBUNelXit9a45AjF3b66Lfd_wxq8B86sEue28xFa8dqwTCok2gY2B9ogXL-LEhD1SKN7JcFqaHzZO2-dlv3dGhQ9jduGR8sy-WR30MsDOepzSq9fdg",
+               "width" : 1265
+            }
+         ],
+         "place_id" : "ChIJ92t1JizHRIYRg0IuSTNWfpA",
+         "price_level" : 1,
+         "rating" : 3,
+         "reference" : "CmReAAAAxNaHOjqHfvBqCwq7V6UKv-sZ8knXi4rngfO8IZXcb0pUfuJkE7oQ9zkUV3g7laCLyUEbkazvMtySY1-oOQLezWHuqnt6cn3stFhLutFHoXStjQs1Cjjp18_rjjHTb_taEhA3MbRMp3PlayaUklCxXBV_GhSWJO8nwl1NCJ-PAWc_A2rzyBh_vw",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "1101 MN-3, Northfield, MN 55057, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.4486509,
+               "lng" : -93.17009469999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.44876840000001,
+                  "lng" : -93.16992769999999
+               },
+               "southwest" : {
+                  "lat" : 44.44830639999999,
+                  "lng" : -93.17059570000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "415410a87f8ab5149ae28f2797c8c4889e6d0d5a",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106905081667537794270/photos\"\u003eGlenn Switzer\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBcwAAAB5m9y0y5w2C-PGKUlSRbcqRFbuRJtnPugdBt5n28qTBE6oWc2ovXqx3gjj-g69QqnlGVq7doT_gBjM1PAw8L5T3RDWjWlkYHRE2SrRdOxB7OHw2NT_Ss8aPXZlr1GF7B9rpXA4wI0NZT3n7Cj7bWt4jPWZPCHM1XYCNqjxpcC8KEhAuoHf1K2izp4gsR9XYs5pRGhRAJSpzgGriOVP3BrC4PVdoHEdlFw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJh8YWoudT9ocR2T_kg-kGccg",
+         "price_level" : 1,
+         "rating" : 2.9,
+         "reference" : "CmReAAAAqxl6Kl9OCzjbyGAhE8YVeMLdv7BMtvvJQXHl_IrvOjgB2jBcVeOhWIKz2dxBT_4QMA5VDmEm9ETOrk_P0b1j8a9GRiiGnyWDETSitD8xvFIa9saFozGd9ZG5JFYQWt6qEhBYQjw4zXoOHQOBgny28cy0GhRYOnH4upFiCX-BYY-6yVvEgUS8LQ",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}
